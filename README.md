@@ -31,10 +31,15 @@ sudo dnf install xclip
 ## 💡 Example
 
 Input (in clipboard):
+
 Hello
+
 World
+
 This
+
 Is
+
 Text
 
 Output (in clipboard):
